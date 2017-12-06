@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Nosh App</string>
+
+    <string-array name="Dollars">
+        <item>$</item>
+        <item>$$</item>
+        <item>$$$</item>
+    </string-array>
+
+    <string-array name="Categories">
+        <item>American</item>
+        <item>Pizza</item>
+        <item>Japanese</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+        <item>Thai</item>
+        <item>Mexican</item>
+        <item>Italian</item>
+    </string-array>
+
+    <string name="latitude_label">Latitude</string>
+    <string name="longitude_label">Longitude</string>
+    <string name="no_location_detected">No location detected</string>
+    <string name="google_app_id">Nosh</string>
+
+</resources>
